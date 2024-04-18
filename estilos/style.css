@@ -21,18 +21,27 @@ article {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-
     width: 311px;
     height: 627px;
     background: url('../midias/imagens/frame-iphone.png') no-repeat;
 }
 
-aside > img {
+#tela {
+    position: relative;
+    top: 80px;
+    left: 22px;
+    height: 471px;
+    width: 268px;
+}
+
+aside > a > img {
     display: block;
     width: 50px;
-    height: 50px;
     border-radius: 50%;
     margin-bottom: 15px;
+    margin-left: 10px;
+    margin-top: 13px;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
 }
 
 img:hover {
