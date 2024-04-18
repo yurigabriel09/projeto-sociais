@@ -31,14 +31,13 @@ article {
     top: 80px;
     left: 22px;
     height: 471px;
-    width: 268px;
+    width: 267px;
 }
 
 aside > a > img {
     display: block;
     width: 50px;
     border-radius: 50%;
-    margin-bottom: 15px;
     margin-left: 10px;
     margin-top: 13px;
     box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
